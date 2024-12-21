@@ -1,0 +1,193 @@
+	
+[
+  {
+	"id": 1,
+	"name": "Seaside Paradise",
+	"location": "Maldives",
+	"rating": 4.9,
+	"imageUrl": "https://example.com/images/seaside-paradise.jpg",
+	"datesOfTravel": ["2024-01-01", "2024-01-07"],
+	"boardBasis": "All Inclusive",
+	"rooms": [
+	  {
+		"roomType": "Deluxe Suite",
+		"amount": 5
+	  },
+	  {
+		"roomType": "Family Room",
+		"amount": 3
+	  }
+	]
+  },
+  {
+	"id": 2,
+	"name": "Mountain Retreat",
+	"location": "Switzerland",
+	"rating": 4.7,
+	"imageUrl": "https://example.com/images/mountain-retreat.jpg",
+	"datesOfTravel": ["2024-02-01", "2024-02-15"],
+	"boardBasis": "Half Board",
+	"rooms": [
+	  {
+		"roomType": "Standard Room",
+		"amount": 10
+	  },
+	  {
+		"roomType": "Luxury Room",
+		"amount": 2
+	  }
+	]
+  },
+  {
+	"id": 3,
+	"name": "City Center Hotel",
+	"location": "New York",
+	"rating": 4.5,
+	"imageUrl": "https://example.com/images/city-center-hotel.jpg",
+	"datesOfTravel": ["2024-03-01", "2024-03-10"],
+	"boardBasis": "Room Only",
+	"rooms": [
+	  {
+		"roomType": "Single Room",
+		"amount": 8
+	  },
+	  {
+		"roomType": "Double Room",
+		"amount": 5
+	  }
+	]
+  },
+  {
+	"id": 4,
+	"name": "Beachfront Resort",
+	"location": "Hawaii",
+	"rating": 4.8,
+	"imageUrl": "https://example.com/images/beachfront-resort.jpg",
+	"datesOfTravel": ["2024-04-01", "2024-04-20"],
+	"boardBasis": "All Inclusive",
+	"rooms": [
+	  {
+		"roomType": "Ocean View Room",
+		"amount": 6
+	  },
+	  {
+		"roomType": "Garden View Room",
+		"amount": 4
+	  }
+	]
+  },
+  {
+	"id": 5,
+	"name": "Desert Oasis",
+	"location": "Dubai",
+	"rating": 4.6,
+	"imageUrl": "https://example.com/images/desert-oasis.jpg",
+	"datesOfTravel": ["2024-05-01", "2024-05-15"],
+	"boardBasis": "Full Board",
+	"rooms": [
+	  {
+		"roomType": "Suite",
+		"amount": 3
+	  },
+	  {
+		"roomType": "Standard Room",
+		"amount": 7
+	  }
+	]
+  },
+  {
+	"id": 6,
+	"name": "Countryside Inn",
+	"location": "England",
+	"rating": 4.2,
+	"imageUrl": "https://example.com/images/countryside-inn.jpg",
+	"datesOfTravel": ["2024-06-01", "2024-06-10"],
+	"boardBasis": "Bed and Breakfast",
+	"rooms": [
+	  {
+		"roomType": "Twin Room",
+		"amount": 5
+	  },
+	  {
+		"roomType": "Double Room",
+		"amount": 4
+	  }
+	]
+  },
+  {
+	"id": 7,
+	"name": "Urban Escape",
+	"location": "Tokyo",
+	"rating": 4.4,
+	"imageUrl": "https://example.com/images/urban-escape.jpg",
+	"datesOfTravel": ["2024-07-01", "2024-07-15"],
+	"boardBasis": "Room Only",
+	"rooms": [
+	  {
+		"roomType": "Standard Room",
+		"amount": 10
+	  },
+	  {
+		"roomType": "Luxury Suite",
+		"amount": 2
+	  }
+	]
+  },
+  {
+	"id": 8,
+	"name": "Tropical Paradise",
+	"location": "Bali",
+	"rating": 4.9,
+	"imageUrl": "https://example.com/images/tropical-paradise.jpg",
+	"datesOfTravel": ["2024-08-01", "2024-08-20"],
+	"boardBasis": "All Inclusive",
+	"rooms": [
+	  {
+		"roomType": "Beachfront Villa",
+		"amount": 4
+	  },
+	  {
+		"roomType": "Garden Villa",
+		"amount": 6
+	  }
+	]
+  },
+  {
+	"id": 9,
+	"name": "Historic Hotel",
+	"location": "Rome",
+	"rating": 4.3,
+	"imageUrl": "https://example.com/images/historic-hotel.jpg",
+	"datesOfTravel": ["2024-09-01", "2024-09-15"],
+	"boardBasis": "Bed and Breakfast",
+	"rooms": [
+	  {
+		"roomType": "Classic Room",
+		"amount": 5
+	  },
+	  {
+		"roomType": "Deluxe Room",
+		"amount": 3
+	  }
+	]
+  },
+  {
+	"id": 10,
+	"name": "Luxury Escape",
+	"location": "Paris",
+	"rating": 4.8,
+	"imageUrl": "https://example.com/images/luxury-escape.jpg",
+	"datesOfTravel": ["2024-10-01", "2024-10-15"],
+	"boardBasis": "Full Board",
+	"rooms": [
+	  {
+		"roomType": "Executive Suite",
+		"amount": 2
+	  },
+	  {
+		"roomType": "Presidential Suite",
+		"amount": 1
+	  }
+	]
+  }
+]
