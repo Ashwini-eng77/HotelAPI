@@ -56,7 +56,7 @@ The application will start and listen on http://localhost:5299.
 Fetches a list of all hotels.
 
 Example Request:
-Use Browser or curl -X GET http://localhost:5299/api/hotels
+Use Browser or curl -X GET http://localhost:5299/hotels
 Example Response:
 [
   {
@@ -89,7 +89,7 @@ Example Response:
     Fetches details of a single hotel by its ID.
 
   Example Request
-  Use Browser or curl -X GET http://localhost:5299/api/hotels/1
+  Use Browser or curl -X GET http://localhost:5299/hotels/1
   {
     "id": 1,
     "name": "Hotel One",
