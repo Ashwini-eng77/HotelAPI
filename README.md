@@ -52,7 +52,7 @@ Run the application using the following command:
 The application will start and listen on http://localhost:5299.
 
 ##Endpoints:
-1)GET /api/hotels
+1)GET /hotels
 Fetches a list of all hotels.
 
 Example Request:
@@ -85,7 +85,7 @@ Example Response:
 ]
 
 
-2)GET /api/hotels/{id}
+2)GET /hotels/{id}
     Fetches details of a single hotel by its ID.
 
   Example Request
